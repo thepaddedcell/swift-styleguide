@@ -1,4 +1,4 @@
-# ECG Mobile iOS Swift Style Guide
+# WIP iOS Swift Style Guide
 
 This style guide outlines the swift coding conventions of the Global Mobile iOS team at eBay Classifieds. It is based on the Github & RayWenderlich.com style guides.
 
